@@ -1,0 +1,81 @@
+body {
+	background-color: #403c30;
+	font-family: 'Montserrat';
+}
+
+
+.app-title {
+	font-size: 32px;
+	color: #fff;
+	text-align: center;
+	line-height: 50px;
+	font-weight: 500;
+}
+
+.author {
+	color: #b39a52;
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+.content {
+	font-style: italic;
+	color: #fff;
+	font-weight: 300;
+	font-size: 24px;
+}
+
+.citation {
+	border-bottom: 1px solid #cfb670;
+	padding-bottom: 5px;
+	margin-bottom: 30px;
+}
+
+.btn-box {
+	text-align: center;
+}
+.next-citation-btn {
+	background-color: #9e8646;
+	color: #fff;
+	border: 1px solid #c2a75f;
+	border-radius: 20px;
+	padding: 7px 9px;
+	transiton: 0.23s;
+	font-size: 20px;
+	cursor: pointer;
+}
+.next-citation-btn:hover {
+	background-color: #c2a75f;
+}
+
+
+/* container  */
+.container {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+.container {
+	height: calc(100vh - 50px);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+/* Container */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
